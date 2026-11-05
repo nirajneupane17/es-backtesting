@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper below."
+title: "When the Tail Lies Too: Governance-Grade Backtesting of Expected Shortfall under Regime Shifts"
+authors:
+  - family-names: Neupane
+    given-names: Niraj
+type: article
+year: 2026
+notes: "SSRN working paper. Companion to 'When Backtests Lie' (SSRN 7652318)."
+repository-code: "https://github.com/nirajneupane17/es-backtesting"
+license: MIT
